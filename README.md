@@ -8,4 +8,6 @@ Caso a máquina desligue, tem que fazer o procedimento para restabeler a conexã
 2) Apresentação do Docker
 
 <img src="https://github.com/JosiTubaroski/Subir_Docker/blob/main/img/Apresentacao_Docker.png">
+
+<img src="https://github.com/JosiTubaroski/Subir_Docker/blob/main/img/Apresentacao_Docker.png">
    
