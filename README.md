@@ -13,5 +13,8 @@ Caso a máquina desligue, tem que fazer o procedimento para restabeler a conexã
 
 3) Digitar no cmd: docker-compose ps
 
+<img src="https://github.com/JosiTubaroski/Subir_Docker/blob/main/img/Executar_compose.png">
+   
+
    
    
